@@ -31,7 +31,7 @@
             <mxPoint x="390" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZI8zsEZZLm2h_iWXEuN-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;进入中断?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AZI8zsEZZLm2h_iWXEuN-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;外部中断?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="450" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AZI8zsEZZLm2h_iWXEuN-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -73,7 +73,7 @@
             <mxPoint x="395" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZI8zsEZZLm2h_iWXEuN-20" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;LED取反&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AZI8zsEZZLm2h_iWXEuN-20" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;LED状态取反&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
