@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-1" value="osal_init_system()&lt;div&gt;操作系统初始化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
