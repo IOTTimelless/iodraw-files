@@ -70,7 +70,7 @@
             <mxPoint x="340" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-15" value="为堆的第一个空闲块设置高效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-15" value="为堆的第一个空闲块设置高效搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
