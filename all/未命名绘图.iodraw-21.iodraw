@@ -34,7 +34,7 @@
             <mxPoint x="330" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-7" value="初始化消息队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-7" value="初始化定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNJGFM2aTMJSuPxmr9B-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -43,7 +43,7 @@
             <mxPoint x="330" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-9" value="初始化定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-9" value="初始化电源管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNJGFM2aTMJSuPxmr9B-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -52,7 +52,7 @@
             <mxPoint x="330" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-11" value="初始化电源管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNJGFM2aTMJSuPxmr9B-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -61,7 +61,7 @@
             <mxPoint x="330" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-13" value="初始化系统任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNJGFM2aTMJSuPxmr9B-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -70,7 +70,7 @@
             <mxPoint x="340" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-15" value="为堆的第一个空闲块设置高效搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
