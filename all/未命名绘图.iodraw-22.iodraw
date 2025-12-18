@@ -31,7 +31,7 @@
             <mxPoint x="402" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H9uSEoG2jTZ4PxELoXhY-9" value="进入外部中断?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9uSEoG2jTZ4PxELoXhY-9" value="外部中断?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="450" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H9uSEoG2jTZ4PxELoXhY-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
