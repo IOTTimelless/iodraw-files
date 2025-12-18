@@ -34,7 +34,7 @@
             <mxPoint x="330" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-7" value="初始化定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNJGFM2aTMJSuPxmr9B-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -43,7 +43,7 @@
             <mxPoint x="330" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-9" value="初始化电源管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNJGFM2aTMJSuPxmr9B-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
