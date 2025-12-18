@@ -103,7 +103,7 @@
             <mxPoint x="570" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNJGFM2aTMJSuPxmr9B-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBNJGFM2aTMJSuPxmr9B-21" value="为任务分配内存空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNJGFM2aTMJSuPxmr9B-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
