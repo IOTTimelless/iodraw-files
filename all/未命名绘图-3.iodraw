@@ -4,44 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="96vEM1SUP5xYqp_dXrn_-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Cache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="96vEM1SUP5xYqp_dXrn_-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="200" as="sourcePoint" />
-            <mxPoint x="380" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="96vEM1SUP5xYqp_dXrn_-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;提高CPU数据输入输出速率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="90" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="96vEM1SUP5xYqp_dXrn_-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="240" as="sourcePoint" />
-            <mxPoint x="510" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="96vEM1SUP5xYqp_dXrn_-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;计算机存储系统体系中访问最快&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="210" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="96vEM1SUP5xYqp_dXrn_-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="239.5" as="sourcePoint" />
-            <mxPoint x="260" y="239.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="96vEM1SUP5xYqp_dXrn_-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;对程序员来说是透明的&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="210" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="96vEM1SUP5xYqp_dXrn_-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="96vEM1SUP5xYqp_dXrn_-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="390" as="sourcePoint" />
-            <mxPoint x="390" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="96vEM1SUP5xYqp_dXrn_-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;时间局部性:循环&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;空间局部性:顺序执行&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="340" width="280" height="60" as="geometry" />
+          <mxGeometry x="-20" y="220" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
