@@ -73,7 +73,7 @@
             <mxPoint x="379.5" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PY0PeNwaS14bVndz_Lzr-19" value="中断处理函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PY0PeNwaS14bVndz_Lzr-19" value="LED状态取反" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
